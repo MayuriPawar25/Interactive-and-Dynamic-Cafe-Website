@@ -1,0 +1,28 @@
+[12-May-2021 07:24:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:24:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:24:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:24:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:24:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:24:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:24:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:24:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:25:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:30:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:30:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:33:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 07:43:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 09:33:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 145
+[12-May-2021 11:36:33 UTC] PHP Notice:  Undefined index: usertype in /home/eternalg/restaurant/admin/session.php on line 3
+[12-May-2021 11:36:33 UTC] PHP Notice:  Undefined index: acc_status in /home/eternalg/restaurant/admin/session.php on line 4
+[12-May-2021 18:13:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:13:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:13:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:13:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:13:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:13:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:14:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:14:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-May-2021 18:14:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eternalg/restaurant/owner/auth.php on line 106
+[12-Jun-2021 14:14:28 UTC] PHP Notice:  Undefined index: fname in /home/eternalg/restaurant/admin/userinfo.php on line 50
+[12-Jun-2021 14:14:28 UTC] PHP Notice:  Undefined index: lname in /home/eternalg/restaurant/admin/userinfo.php on line 50
+[12-Jun-2021 14:14:28 UTC] PHP Notice:  Undefined index: username in /home/eternalg/restaurant/admin/userinfo.php on line 112
